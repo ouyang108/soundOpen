@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(cargo metadata --format-version 1)",
-      "Bash(cat E:/rust/.cargo/registry/src/mirrors.aliyun.com-*/tauri-plugin-stt-0.1.0/src/desktop.rs)"
-    ]
-  }
-}
